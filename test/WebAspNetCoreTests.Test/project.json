@@ -5,6 +5,7 @@
   "dependencies": {
     "xunit": "2.2.0",
     "WebAspNetCoreTests": "1.0.0-*",
+    "Moq": "4.5.28",
     "dotnet-test-xunit": "2.2.0-preview2-build1029"
   },
 
